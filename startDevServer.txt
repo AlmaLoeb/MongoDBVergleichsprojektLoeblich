@@ -1,0 +1,4 @@
+:start
+dotnet build PassswordManager.Webapi --no-incremental --force
+dotnet watch run -c Debug --project PassswordManager.Webapi
+goto start

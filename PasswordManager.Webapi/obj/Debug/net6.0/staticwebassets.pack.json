@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\almal\\Projects\\PasswordManager_POS_Project\\Source_Summer\\PasswordManager\\PasswordManager.Webapi\\wwwroot\\assets\\PasswordView-cfd1f86c.css",
+      "PackagePath": "staticwebassets\\assets\\PasswordView-cfd1f86c.css"
+    },
+    {
+      "Id": "C:\\Users\\almal\\Projects\\PasswordManager_POS_Project\\Source_Summer\\PasswordManager\\PasswordManager.Webapi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\almal\\Projects\\PasswordManager_POS_Project\\Source_Summer\\PasswordManager\\PasswordManager.Webapi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\almal\\Projects\\PasswordManager_POS_Project\\Source_Summer\\PasswordManager\\PasswordManager.Webapi\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PasswordManager.Webapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PasswordManager.Webapi.props",
+      "PackagePath": "build\\PasswordManager.Webapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PasswordManager.Webapi.props",
+      "PackagePath": "buildMultiTargeting\\PasswordManager.Webapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PasswordManager.Webapi.props",
+      "PackagePath": "buildTransitive\\PasswordManager.Webapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
